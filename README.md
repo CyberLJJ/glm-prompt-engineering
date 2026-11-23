@@ -1,4 +1,3 @@
-# glm-prompt-engineering
 智普清言越狱提示
 
 智谱GLM Prompt 越狱技巧
